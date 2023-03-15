@@ -17,6 +17,13 @@ public class ArrayListDemo {
 		}
 		
 		
+	//added a new arraylist	
+	ArrayList arrayList = new ArrayList<>();
+	arrayList.add(10);
+	arrayList.add(20);
+	arrayList.add(30);
+
+		
 	}
 
 }
